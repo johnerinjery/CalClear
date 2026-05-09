@@ -9,7 +9,7 @@ I use this along with my project [PDF2Cal](https://github.com/johnerinjery/PDF2C
 After cloning this repo, replace ```credentials.txt``` with your ```credentials.json``` file. Inside a python environment, run 
 
 ```bash
-pip intall -r requirements.txt
+pip install -r requirements.txt
 ```
 to install dependencies. Then run
 
